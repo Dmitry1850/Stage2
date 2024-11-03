@@ -1,0 +1,7 @@
+C:\Users\Dmitry\Desktop\Stage2\OOP1\OOP1\bin\Debug\OOP1.exe.config
+C:\Users\Dmitry\Desktop\Stage2\OOP1\OOP1\bin\Debug\OOP1.exe
+C:\Users\Dmitry\Desktop\Stage2\OOP1\OOP1\bin\Debug\OOP1.pdb
+C:\Users\Dmitry\Desktop\Stage2\OOP1\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\Stage2\OOP1\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\Stage2\OOP1\OOP1\obj\Debug\OOP1.exe
+C:\Users\Dmitry\Desktop\Stage2\OOP1\OOP1\obj\Debug\OOP1.pdb
