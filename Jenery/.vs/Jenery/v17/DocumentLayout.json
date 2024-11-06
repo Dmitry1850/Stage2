@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{C0203337-C1C0-4309-A285-92CB4A7A2BB7}|Jenery\\Jenery.csproj|solutionrelative:jenery\\pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0203337-C1C0-4309-A285-92CB4A7A2BB7}|Jenery\\Jenery.csproj|c:\\users\\dmitry\\desktop\\stage2\\jenery\\jenery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0203337-C1C0-4309-A285-92CB4A7A2BB7}|Jenery\\Jenery.csproj|C:\\Users\\Dmitry\\Desktop\\Stage2\\Jenery\\jenery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0203337-C1C0-4309-A285-92CB4A7A2BB7}|Jenery\\Jenery.csproj|solutionrelative:jenery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Jenery\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T12:00:25.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T12:00:25.449Z"
             },
             {
               "$type": "Bookmark",
