@@ -1,0 +1,7 @@
+C:\Users\Dmitry\Desktop\Stage2\SOLID1\SOLID1\bin\Debug\SOLID1.exe.config
+C:\Users\Dmitry\Desktop\Stage2\SOLID1\SOLID1\bin\Debug\SOLID1.exe
+C:\Users\Dmitry\Desktop\Stage2\SOLID1\SOLID1\bin\Debug\SOLID1.pdb
+C:\Users\Dmitry\Desktop\Stage2\SOLID1\SOLID1\obj\Debug\SOLID1.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\Stage2\SOLID1\SOLID1\obj\Debug\SOLID1.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\Stage2\SOLID1\SOLID1\obj\Debug\SOLID1.exe
+C:\Users\Dmitry\Desktop\Stage2\SOLID1\SOLID1\obj\Debug\SOLID1.pdb
