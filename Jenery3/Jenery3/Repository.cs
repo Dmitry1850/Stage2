@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Jenery3
 {
@@ -6,26 +7,19 @@ namespace Jenery3
     {
         public Repository(int Length = 2)
         {
-            values = new T[Length];
+            values = new List<T>(Length);
         }
 
-        private T[] values;
+        private List<T> values;
 
-        public void SetElementOnIndex(int index, T value)
+        public void SetElement(T value)
         {
-            if (index >= 0 && index < values.Length)
-            {
-                values[index] = value;
-            }
-            else 
-            {
-                Console.WriteLine("Такого индекса нет!");
-            }
+            values.Add(value);
         }
 
         public T GetElementOnIndex(int index)
         {
-            if (index >= 0 && index < values.Length)
+            if (index >= 0 && index < values.Count )
             {
                 return values[index];
             }
