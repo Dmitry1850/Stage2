@@ -5,15 +5,15 @@ namespace genery5
 {
     class ListStorage<T> : IStorage<T>
     {
-        private List<T> values;   
+        private List<T> _values = new List<T>(2);   
         public void Add(T value)
         {
-            values.Add(value);
+            _values.Add(value);
         }
 
-        public T Get(int element)
+        public int Get(T element)
         {
-            return values[element];
+            return _values.IndexOf(element);
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\Dmitry\Desktop\Stage2\genery5\genery5\bin\Debug\genery5.exe.config
+C:\Users\Dmitry\Desktop\Stage2\genery5\genery5\bin\Debug\genery5.exe
+C:\Users\Dmitry\Desktop\Stage2\genery5\genery5\bin\Debug\genery5.pdb
+C:\Users\Dmitry\Desktop\Stage2\genery5\genery5\obj\Debug\genery5.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\Stage2\genery5\genery5\obj\Debug\genery5.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\Stage2\genery5\genery5\obj\Debug\genery5.exe
+C:\Users\Dmitry\Desktop\Stage2\genery5\genery5\obj\Debug\genery5.pdb

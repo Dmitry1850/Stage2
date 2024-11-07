@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Dmitry\\Desktop\\Stage2\\genery5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDBB31F1-DE52-4F2A-9556-DA7F3F26419E}|genery5\\genery5.csproj|c:\\users\\dmitry\\desktop\\stage2\\genery5\\genery5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FDBB31F1-DE52-4F2A-9556-DA7F3F26419E}|genery5\\genery5.csproj|C:\\Users\\Dmitry\\Desktop\\Stage2\\genery5\\genery5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDBB31F1-DE52-4F2A-9556-DA7F3F26419E}|genery5\\genery5.csproj|solutionrelative:genery5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBB31F1-DE52-4F2A-9556-DA7F3F26419E}|genery5\\genery5.csproj|c:\\users\\dmitry\\desktop\\stage2\\genery5\\genery5\\liststorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBB31F1-DE52-4F2A-9556-DA7F3F26419E}|genery5\\genery5.csproj|solutionrelative:genery5\\liststorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBB31F1-DE52-4F2A-9556-DA7F3F26419E}|genery5\\genery5.csproj|C:\\Users\\Dmitry\\Desktop\\Stage2\\genery5\\genery5\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBB31F1-DE52-4F2A-9556-DA7F3F26419E}|genery5\\genery5.csproj|solutionrelative:genery5\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitry\\Desktop\\Stage2\\genery5\\genery5\\ListStorage.cs",
+              "RelativeDocumentMoniker": "genery5\\ListStorage.cs",
+              "ToolTip": "C:\\Users\\Dmitry\\Desktop\\Stage2\\genery5\\genery5\\ListStorage.cs",
+              "RelativeToolTip": "genery5\\ListStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:38:36.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitry\\Desktop\\Stage2\\genery5\\genery5\\IStorage.cs",
+              "RelativeDocumentMoniker": "genery5\\IStorage.cs",
+              "ToolTip": "C:\\Users\\Dmitry\\Desktop\\Stage2\\genery5\\genery5\\IStorage.cs",
+              "RelativeToolTip": "genery5\\IStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:37:14.707Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dmitry\\Desktop\\Stage2\\genery5\\genery5\\Program.cs",
               "RelativeDocumentMoniker": "genery5\\Program.cs",
-              "ToolTip": "C:\\Users\\Dmitry\\Desktop\\Stage2\\genery5\\genery5\\Program.cs",
-              "RelativeToolTip": "genery5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Dmitry\\Desktop\\Stage2\\genery5\\genery5\\Program.cs*",
+              "RelativeToolTip": "genery5\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T12:36:50.66Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
