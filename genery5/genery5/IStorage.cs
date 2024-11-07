@@ -2,7 +2,7 @@
 {
     interface IStorage<T>
     {
-        T Get(int element);
+        int Get(T element);
         void Add(T value);
     }
 }
