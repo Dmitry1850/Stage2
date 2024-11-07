@@ -6,6 +6,10 @@ namespace Jenery3
     {
         static void Main(string[] args)
         {
+            Repository<string> repository = new Repository<string>();
+
+            repository.SetElement("qq");
+            Console.WriteLine(repository.GetElementOnIndex(0));
         }
     }
 }

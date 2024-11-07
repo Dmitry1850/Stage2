@@ -1,0 +1,7 @@
+C:\Users\Dmitry\Desktop\Stage2\Jenery3\Jenery3\bin\Debug\Jenery3.exe.config
+C:\Users\Dmitry\Desktop\Stage2\Jenery3\Jenery3\bin\Debug\Jenery3.exe
+C:\Users\Dmitry\Desktop\Stage2\Jenery3\Jenery3\bin\Debug\Jenery3.pdb
+C:\Users\Dmitry\Desktop\Stage2\Jenery3\Jenery3\obj\Debug\Jenery3.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\Stage2\Jenery3\Jenery3\obj\Debug\Jenery3.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\Stage2\Jenery3\Jenery3\obj\Debug\Jenery3.exe
+C:\Users\Dmitry\Desktop\Stage2\Jenery3\Jenery3\obj\Debug\Jenery3.pdb
