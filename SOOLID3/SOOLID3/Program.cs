@@ -6,6 +6,9 @@ namespace SOOLID3
     {
         static void Main(string[] args)
         {
+            Pinguin pinguin = new Pinguin();
+
+            pinguin.Fly();
         }
     }
 }

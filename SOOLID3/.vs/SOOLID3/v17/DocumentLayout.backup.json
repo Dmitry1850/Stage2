@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOOLID3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB39B7AF-E9D6-418F-A5ED-8D3205A42AA9}|SOOLID3\\SOOLID3.csproj|c:\\users\\dmitry\\desktop\\stage2\\soolid3\\soolid3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB39B7AF-E9D6-418F-A5ED-8D3205A42AA9}|SOOLID3\\SOOLID3.csproj|C:\\Users\\Dmitry\\Desktop\\Stage2\\SOOLID3\\soolid3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB39B7AF-E9D6-418F-A5ED-8D3205A42AA9}|SOOLID3\\SOOLID3.csproj|solutionrelative:soolid3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB39B7AF-E9D6-418F-A5ED-8D3205A42AA9}|SOOLID3\\SOOLID3.csproj|C:\\Users\\Dmitry\\Desktop\\Stage2\\SOOLID3\\soolid3\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB39B7AF-E9D6-418F-A5ED-8D3205A42AA9}|SOOLID3\\SOOLID3.csproj|solutionrelative:soolid3\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB39B7AF-E9D6-418F-A5ED-8D3205A42AA9}|SOOLID3\\SOOLID3.csproj|c:\\users\\dmitry\\desktop\\stage2\\soolid3\\soolid3\\pinguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB39B7AF-E9D6-418F-A5ED-8D3205A42AA9}|SOOLID3\\SOOLID3.csproj|solutionrelative:soolid3\\pinguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pinguin.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOOLID3\\SOOLID3\\Pinguin.cs",
+              "RelativeDocumentMoniker": "SOOLID3\\Pinguin.cs",
+              "ToolTip": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOOLID3\\SOOLID3\\Pinguin.cs",
+              "RelativeToolTip": "SOOLID3\\Pinguin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:47:52.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOOLID3\\SOOLID3\\Bird.cs",
+              "RelativeDocumentMoniker": "SOOLID3\\Bird.cs",
+              "ToolTip": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOOLID3\\SOOLID3\\Bird.cs",
+              "RelativeToolTip": "SOOLID3\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:46:50.566Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOOLID3\\SOOLID3\\Program.cs",
               "RelativeDocumentMoniker": "SOOLID3\\Program.cs",
-              "ToolTip": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOOLID3\\SOOLID3\\Program.cs",
-              "RelativeToolTip": "SOOLID3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOOLID3\\SOOLID3\\Program.cs*",
+              "RelativeToolTip": "SOOLID3\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T12:46:30.738Z",
               "EditorCaption": ""

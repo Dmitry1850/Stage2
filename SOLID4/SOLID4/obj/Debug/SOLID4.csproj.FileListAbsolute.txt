@@ -1,0 +1,7 @@
+C:\Users\Dmitry\Desktop\Stage2\SOLID4\SOLID4\bin\Debug\SOLID4.exe.config
+C:\Users\Dmitry\Desktop\Stage2\SOLID4\SOLID4\bin\Debug\SOLID4.exe
+C:\Users\Dmitry\Desktop\Stage2\SOLID4\SOLID4\bin\Debug\SOLID4.pdb
+C:\Users\Dmitry\Desktop\Stage2\SOLID4\SOLID4\obj\Debug\SOLID4.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\Stage2\SOLID4\SOLID4\obj\Debug\SOLID4.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\Stage2\SOLID4\SOLID4\obj\Debug\SOLID4.exe
+C:\Users\Dmitry\Desktop\Stage2\SOLID4\SOLID4\obj\Debug\SOLID4.pdb

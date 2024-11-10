@@ -1,0 +1,7 @@
+C:\Users\Dmitry\Desktop\Stage2\SOLID5\SOLID5\bin\Debug\SOLID5.exe.config
+C:\Users\Dmitry\Desktop\Stage2\SOLID5\SOLID5\bin\Debug\SOLID5.exe
+C:\Users\Dmitry\Desktop\Stage2\SOLID5\SOLID5\bin\Debug\SOLID5.pdb
+C:\Users\Dmitry\Desktop\Stage2\SOLID5\SOLID5\obj\Debug\SOLID5.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\Stage2\SOLID5\SOLID5\obj\Debug\SOLID5.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\Stage2\SOLID5\SOLID5\obj\Debug\SOLID5.exe
+C:\Users\Dmitry\Desktop\Stage2\SOLID5\SOLID5\obj\Debug\SOLID5.pdb

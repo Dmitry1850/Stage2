@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E141B7F7-9A2E-48E2-BC8B-AB6CD0AD447B}|SOLID2\\SOLID2.csproj|c:\\users\\dmitry\\desktop\\stage2\\solid2\\solid2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E141B7F7-9A2E-48E2-BC8B-AB6CD0AD447B}|SOLID2\\SOLID2.csproj|C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID2\\solid2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E141B7F7-9A2E-48E2-BC8B-AB6CD0AD447B}|SOLID2\\SOLID2.csproj|solutionrelative:solid2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E141B7F7-9A2E-48E2-BC8B-AB6CD0AD447B}|SOLID2\\SOLID2.csproj|C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID2\\solid2\\percentragediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E141B7F7-9A2E-48E2-BC8B-AB6CD0AD447B}|SOLID2\\SOLID2.csproj|solutionrelative:solid2\\percentragediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E141B7F7-9A2E-48E2-BC8B-AB6CD0AD447B}|SOLID2\\SOLID2.csproj|c:\\users\\dmitry\\desktop\\stage2\\solid2\\solid2\\fixedamountdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E141B7F7-9A2E-48E2-BC8B-AB6CD0AD447B}|SOLID2\\SOLID2.csproj|solutionrelative:solid2\\fixedamountdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E141B7F7-9A2E-48E2-BC8B-AB6CD0AD447B}|SOLID2\\SOLID2.csproj|C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID2\\solid2\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E141B7F7-9A2E-48E2-BC8B-AB6CD0AD447B}|SOLID2\\SOLID2.csproj|solutionrelative:solid2\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FixedAmountDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID2\\SOLID2\\FixedAmountDiscount.cs",
+              "RelativeDocumentMoniker": "SOLID2\\FixedAmountDiscount.cs",
+              "ToolTip": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID2\\SOLID2\\FixedAmountDiscount.cs",
+              "RelativeToolTip": "SOLID2\\FixedAmountDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:54:35.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PercentrageDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID2\\SOLID2\\PercentrageDiscount.cs",
+              "RelativeDocumentMoniker": "SOLID2\\PercentrageDiscount.cs",
+              "ToolTip": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID2\\SOLID2\\PercentrageDiscount.cs",
+              "RelativeToolTip": "SOLID2\\PercentrageDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:52:22.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID2\\SOLID2\\Discount.cs",
+              "RelativeDocumentMoniker": "SOLID2\\Discount.cs",
+              "ToolTip": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID2\\SOLID2\\Discount.cs",
+              "RelativeToolTip": "SOLID2\\Discount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:50:44.039Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID2\\SOLID2\\Program.cs",
               "RelativeDocumentMoniker": "SOLID2\\Program.cs",
-              "ToolTip": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID2\\SOLID2\\Program.cs",
-              "RelativeToolTip": "SOLID2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID2\\SOLID2\\Program.cs*",
+              "RelativeToolTip": "SOLID2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T11:50:17.347Z",
               "EditorCaption": ""

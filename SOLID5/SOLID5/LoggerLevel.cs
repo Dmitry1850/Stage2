@@ -2,11 +2,14 @@
 
 namespace SOLID5
 {
-    abstract class LoggerLevel : ILogger
+    class LoggerLevel : ILogger
     {
-        public void Log(string message)
+        public void Log(string level)
         {
-            throw new NotImplementedException();
+            if (level == "1")
+            {
+                throw new Exception("ffffff");
+            }
         }
     }
 }
