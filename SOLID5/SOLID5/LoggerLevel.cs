@@ -8,7 +8,11 @@ namespace SOLID5
         {
             if (level == "1")
             {
-                throw new Exception("ffffff");
+                throw new Exception("first level");
+            }
+            else
+            {
+                throw new Exception("other level");
             }
         }
     }

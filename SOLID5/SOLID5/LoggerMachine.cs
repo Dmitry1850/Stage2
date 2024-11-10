@@ -4,14 +4,16 @@ namespace SOLID5
 {
     class LoggerMachine 
     {
-        LoggerLevel level = new LoggerLevel();
+        ILogger level;
+
+        public void SetLogger(ILogger log)
+        { 
+            level = log;
+        }
 
         public void PushLog(string message)
         {
-            if (message == null)
-                level.Log("1");
-            else
-                throw new Exception("Все гуд, работай дальше");
+            level.Log(message);
         }
     }
 }
