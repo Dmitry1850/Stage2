@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B544895-EBA9-4ED2-B8AE-48E9E799A611}|SOLID4\\SOLID4.csproj|C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID4\\solid4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B544895-EBA9-4ED2-B8AE-48E9E799A611}|SOLID4\\SOLID4.csproj|solutionrelative:solid4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B544895-EBA9-4ED2-B8AE-48E9E799A611}|SOLID4\\SOLID4.csproj|C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID4\\solid4\\printers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B544895-EBA9-4ED2-B8AE-48E9E799A611}|SOLID4\\SOLID4.csproj|solutionrelative:solid4\\printers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B544895-EBA9-4ED2-B8AE-48E9E799A611}|SOLID4\\SOLID4.csproj|c:\\users\\dmitry\\desktop\\stage2\\solid4\\solid4\\printers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B544895-EBA9-4ED2-B8AE-48E9E799A611}|SOLID4\\SOLID4.csproj|solutionrelative:solid4\\printers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B544895-EBA9-4ED2-B8AE-48E9E799A611}|SOLID4\\SOLID4.csproj|c:\\users\\dmitry\\desktop\\stage2\\solid4\\solid4\\scan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B544895-EBA9-4ED2-B8AE-48E9E799A611}|SOLID4\\SOLID4.csproj|solutionrelative:solid4\\scan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B544895-EBA9-4ED2-B8AE-48E9E799A611}|SOLID4\\SOLID4.csproj|C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID4\\solid4\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B544895-EBA9-4ED2-B8AE-48E9E799A611}|SOLID4\\SOLID4.csproj|solutionrelative:solid4\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B544895-EBA9-4ED2-B8AE-48E9E799A611}|SOLID4\\SOLID4.csproj|C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID4\\solid4\\printandscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B544895-EBA9-4ED2-B8AE-48E9E799A611}|SOLID4\\SOLID4.csproj|solutionrelative:solid4\\printandscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B544895-EBA9-4ED2-B8AE-48E9E799A611}|SOLID4\\SOLID4.csproj|c:\\users\\dmitry\\desktop\\stage2\\solid4\\solid4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B544895-EBA9-4ED2-B8AE-48E9E799A611}|SOLID4\\SOLID4.csproj|solutionrelative:solid4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID4\\SOLID4\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID4\\Program.cs",
+              "ToolTip": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID4\\SOLID4\\Program.cs",
+              "RelativeToolTip": "SOLID4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:49:49.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Printers.cs",
               "DocumentMoniker": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID4\\SOLID4\\Printers.cs",
               "RelativeDocumentMoniker": "SOLID4\\Printers.cs",
-              "ToolTip": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID4\\SOLID4\\Printers.cs",
-              "RelativeToolTip": "SOLID4\\Printers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID4\\SOLID4\\Printers.cs*",
+              "RelativeToolTip": "SOLID4\\Printers.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T12:53:53.93Z",
               "EditorCaption": ""
@@ -56,28 +69,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PrintAndScan.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID4\\SOLID4\\PrintAndScan.cs",
-              "RelativeDocumentMoniker": "SOLID4\\PrintAndScan.cs",
-              "ToolTip": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID4\\SOLID4\\PrintAndScan.cs",
-              "RelativeToolTip": "SOLID4\\PrintAndScan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Scan.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID4\\SOLID4\\Scan.cs",
+              "RelativeDocumentMoniker": "SOLID4\\Scan.cs",
+              "ToolTip": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID4\\SOLID4\\Scan.cs",
+              "RelativeToolTip": "SOLID4\\Scan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T12:51:27.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID4\\SOLID4\\Program.cs",
-              "RelativeDocumentMoniker": "SOLID4\\Program.cs",
-              "ToolTip": "C:\\Users\\Dmitry\\Desktop\\Stage2\\SOLID4\\SOLID4\\Program.cs*",
-              "RelativeToolTip": "SOLID4\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T12:49:49.754Z",
               "EditorCaption": ""
             },
             {

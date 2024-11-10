@@ -7,8 +7,11 @@ namespace SOOLID3
         static void Main(string[] args)
         {
             Pinguin pinguin = new Pinguin();
+            Vorona vorona = new Vorona();
 
-            pinguin.Fly();
+            pinguin.Walk();
+            vorona.Fly();
+           
         }
     }
 }

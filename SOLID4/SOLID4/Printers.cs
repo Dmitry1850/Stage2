@@ -10,7 +10,7 @@ namespace SOLID4
         }
     }
 
-    class MultiPrinter :IPrintAndScan
+    class MultiPrinter :IPrint, IScan
     {
         public void Print(string Document)
         {

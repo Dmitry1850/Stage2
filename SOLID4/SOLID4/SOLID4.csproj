@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Print.cs" />
-    <Compile Include="PrintAndScan.cs" />
+    <Compile Include="Scan.cs" />
     <Compile Include="Printers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
