@@ -6,6 +6,10 @@ namespace SOLID5
     {
         static void Main(string[] args)
         {
+            LoggerMachine machine = new LoggerMachine();
+
+            //machine.PushLog(null);
+            machine.PushLog("äsdasd");
         }
     }
 }
