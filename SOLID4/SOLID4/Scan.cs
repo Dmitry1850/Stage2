@@ -2,9 +2,8 @@
 
 namespace SOLID4
 {
-    interface IPrintAndScan
+    interface IScan
     {
-        void Print(string Document);
         void Scan(string Document);
     }
 }
