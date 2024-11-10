@@ -6,6 +6,11 @@ namespace OOP4
     {
         static void Main(string[] args)
         {
+            Circle circle = new Circle();
+            Rectangle rectangle = new Rectangle();
+
+            circle.GetArea();
+            rectangle.GetArea();
         }
     }
 }
