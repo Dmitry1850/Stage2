@@ -4,9 +4,9 @@ namespace SOOLID3
 {
     class Pinguin : Bird
     {
-        public override void Fly()
+        public void ShowInfo()
         {
-            Console.WriteLine("Пингвин не умеет летать!");
+            Console.WriteLine("Это пингвин!");
         }
     }
 }

@@ -2,11 +2,11 @@
 
 namespace SOOLID3
 {
-    abstract class Bird
+    abstract class Bird 
     {
-        public virtual void Fly()
+        public void Walk()
         {
-            Console.WriteLine("Птица летит");
+            Console.WriteLine("Эта птица ходит!");
         }
     }
 }
